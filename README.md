@@ -3,6 +3,15 @@ Posh-Hg-Async
 
 A fork of [Posh-Hg](https://github.com/JeremySkinner/posh-hg) with improved performance, particularly for large repositories. Fetches `hg status` in the background allowing the user to continue entering commands instead of locking up the whole terminal with every new line.
 
+Original Posh-Hg:
+
+![](https://github.com/pjpscriv/posh-hg-async/blob/master/gifs/posh-hg.gif?raw=true)
+
+Posh-Hg-Async:
+
+![](https://github.com/pjpscriv/posh-hg-async/blob/master/gifs/posh-hg-async.gif?raw=true)
+
+
 ## Posh-Hg Features
 
 ### Prompt
